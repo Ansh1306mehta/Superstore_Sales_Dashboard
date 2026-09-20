@@ -138,7 +138,7 @@ This dashboard helps answer questions such as:
 
 ## 📷 Dashboard Preview
 
-![Super Store Sales Dashboard](screenshots/super-store-dashboard.png)
+![Super Store Sales Dashboard](https://github.com/Ansh1306mehta/Superstore_Sales_Dashboard/blob/main/Dashboard.png)
 
 ---
 
